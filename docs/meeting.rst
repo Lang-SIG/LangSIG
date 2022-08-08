@@ -3,6 +3,28 @@
 모임 기록
 ===============
 
+2022-08-07
+----------
+- Virtual Machine Warmup Blows Hot and Cold by @corona10
+- Tapir: Embedding ForkJoin Parallelism into LLVM’s Intermediate Representation by @skyobserver
+- CPU 친화적인 기법들에 대한 간단한 소개 by @ArtBlnd
+
+2022-06-05
+----------
+- “Faster CPython”: Past, Present and Future by @corona10
+- Multithreading in Julia by @skyobserver
+- 컴파일러의 이해 by @catry
+
+2022-04-17
+----------
+- Run interpreters in parallel by @corona10
+- Julia Memory Management by @skyobserver
+- SPIR-V IR Specification by @ㅅ_ㅅ
+
+2022-03-13
+----------
+- Python Memory Management by @skyobserver
+- DFA minimization - Hopcroft’s algorithm by @다믜
 
 2022-02-13
 ----------
