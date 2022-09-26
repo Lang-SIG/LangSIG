@@ -3,11 +3,15 @@
 모임 기록
 ===============
 
+.. _log-20220925:
+
 2022-09-25
 ----------
 - Inline Caching Meet Quickening by @corona10
 - Efficient Detection of Determinacy Races in Cilk Programs by @skyobserver
 - 카일루아 뒷이야기 by @yurume
+
+.. _log-20220807:
 
 2022-08-07
 ----------
@@ -15,11 +19,15 @@
 - Tapir: Embedding ForkJoin Parallelism into LLVM’s Intermediate Representation by @skyobserver
 - CPU 친화적인 기법들에 대한 간단한 소개 by @ArtBlnd
 
+.. _log-20220605:
+
 2022-06-05
 ----------
 - “Faster CPython”: Past, Present and Future by @corona10
 - Multithreading in Julia by @skyobserver
 - 컴파일러의 이해 by @catry
+
+.. _log-20220417:
 
 2022-04-17
 ----------
@@ -27,10 +35,14 @@
 - Julia Memory Management by @skyobserver
 - SPIR-V IR Specification by @ㅅ_ㅅ
 
+.. _log-20220313:
+
 2022-03-13
 ----------
 - Python Memory Management by @skyobserver
 - DFA minimization - Hopcroft’s algorithm by @다믜
+
+.. _log-20220213:
 
 2022-02-13
 ----------
@@ -49,12 +61,14 @@
    @ArtBlnd:
     - 1960년에도 구현과 독립된 아키텍처라는 개념이 있었나?
 
+.. _log-20220116:
 
 2022-01-16
 ----------
 - BOLT:A Practical Binary Optimizer for Data Centers and Beyond by @corona10
 - 컴파일러의 이해 by @Catry
 
+.. _log-20211218:
 
 2021-12-18
 ----------
@@ -62,6 +76,7 @@
 - 모던 CPU 아키텍처와 최적화 by @ArtBlnd
 - DFA to Turing Machine by @skyobserver
 
+.. _log-20211121:
 
 2021-11-21
 ----------
