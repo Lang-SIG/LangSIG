@@ -3,6 +3,12 @@
 모임 기록
 ===============
 
+2022-09-25
+----------
+- Inline Caching Meet Quickening by @corona10
+- Efficient Detection of Determinacy Races in Cilk Programs by @skyobserver
+- 카일루아 뒷이야기 by @yurume
+
 2022-08-07
 ----------
 - Virtual Machine Warmup Blows Hot and Cold by @corona10
