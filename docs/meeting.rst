@@ -3,6 +3,13 @@
 모임 기록
 ===============
 
+.. _log-20221031:
+
+2022-10-31
+----------
+- Copy-and-Patch Compilation by @corona10
+- The Deep Learning Compiler: A Comprehensive Survey by @skyobserver
+
 .. _log-20220925:
 
 2022-09-25
