@@ -3,6 +3,13 @@
 모임 기록
 ===============
 
+.. _log-20221127:
+
+2022-11-27
+----------
+- Introduction to SSA by @corona10
+- TVM: An Automated End-to-End Optimizing Compiler for Deep Learning by @skyobserver
+
 .. _log-20221030:
 
 2022-10-30
