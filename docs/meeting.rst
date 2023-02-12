@@ -3,6 +3,15 @@
 모임 기록
 ===============
 
+.. _log-20230205:
+
+2023-02-05
+----------
+- Intermediate Representations by @skyobserver
+- Optimizing Lua using run-time type specialization by @corona10
+- GCC Optimization Levels Revisited by @ㅅ_ㅅ
+- Floating Point Numbers in Programming Languages by @yurume
+
 .. _log-20221127:
 
 2022-11-27
