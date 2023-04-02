@@ -3,6 +3,14 @@
 모임 기록
 ===============
 
+.. _log-20230326:
+
+2023-03-26
+----------
+- Programming Language Sementics: Big-step semantics and Small-step semantics by @다믜
+- Progress of F2J.jl (Fortran to Julia Transpiler) by @skyobserver
+- CPython and LLVM-BOLT by @corona10
+
 .. _log-20230205:
 
 2023-02-05
