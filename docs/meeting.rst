@@ -3,6 +3,14 @@
 모임 기록
 ===============
 
+.. _log-20230514:
+
+2023-05-14
+----------
+- MLGO: a Machine Learning Guided Compiler Optimizations Framework by @corona10
+- MOJO: a new programming language for all AI developers by @b8
+- LLVM Compiler Optimizing Pass Study by @박한범
+
 .. _log-20230326:
 
 2023-03-26
