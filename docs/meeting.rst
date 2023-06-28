@@ -3,6 +3,16 @@
 모임 기록
 ===============
 
+.. _log-20230625:
+
+2023-06-25
+----------
+- rustc overview by @b8
+- Exploring a Tier 2 Interpreter for CPython by @corona10
+- PyTorch 2.0 (and 2.x) by @skyobserver
+- Rambling about libm by @yurume
+- 코드 변형 검증의 과제 by @박한범
+
 .. _log-20230514:
 
 2023-05-14
