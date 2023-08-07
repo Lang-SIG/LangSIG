@@ -3,6 +3,14 @@
 모임 기록
 ===============
 
+.. _log-20230806:
+
+2023-08-06
+----------
+- ESMeta Family Overview: 기계화 명세를 이용한 자바스크립트 언어의 설계와 구현 by @flow
+- rustc bootstrapping by @b8
+- PEP 703 – Making the Global Interpreter Lock Optional In CPython by @corona10
+
 .. _log-20230625:
 
 2023-06-25
