@@ -3,6 +3,13 @@
 모임 기록
 ===============
 
+.. _log-20230924:
+
+2023-09-24
+----------
+- FuncyTuner: Auto-tuning Scientific Applications With Per-loop Compilation by @skyobserver
+- SuperOptimization by @박한범
+
 .. _log-20230806:
 
 2023-08-06
