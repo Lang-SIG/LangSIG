@@ -3,6 +3,14 @@
 모임 기록
 ===============
 
+.. _log-20231126:
+
+2023-11-26
+----------
+- A JIT compiler for CPython by @corona10
+- AlphaDev by @skyobserver
+- 양자컴퓨팅 by @b8
+
 .. _log-20230924:
 
 2023-09-24
