@@ -3,6 +3,14 @@
 모임 기록
 ===============
 
+.. _log-20240303:
+
+2024-03-03
+----------
+- Progress Share PEP 703 by @corona10
+- 타입과 다형성(Type and Polymorphism) by @skyobserver
+- Back to the Building Blocks by @b8
+
 .. _log-20231126:
 
 2023-11-26
