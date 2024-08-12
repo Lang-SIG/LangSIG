@@ -3,6 +3,15 @@
 모임 기록
 ===============
 
+.. _log-20240811:
+
+2024-08-11
+----------
+- JuliaCon 2024 리뷰 by @skyobserver
+- AVX-512로 tolower() 구현하기 by @b8
+- The Python Language Summit 2024 리뷰 by @corona10
+- LLVM Known Bits Analysis by @박한범
+
 .. _log-20240303:
 
 2024-03-03
