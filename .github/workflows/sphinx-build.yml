@@ -8,6 +8,6 @@ jobs:
     - uses: actions/checkout@v4
     - uses: ammaraskar/sphinx-action@master
       with:
-        pre-build-command: "pip install --force-reinstall --upgrade pip 'sphinx==8.0.2'"
+        pre-build-command: "pip install --force-reinstall --upgrade pip"
         build-command: "sphinx-build -b html . _build"
         docs-folder: "docs/"
