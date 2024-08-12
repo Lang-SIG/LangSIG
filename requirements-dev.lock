@@ -50,9 +50,11 @@ snowballstemmer==2.2.0
 soupsieve==2.5
     # via beautifulsoup4
 sphinx==8.0.2
+    # via langsig
     # via pydata-sphinx-theme
     # via sphinx-book-theme
 sphinx-book-theme==1.1.3
+    # via langsig
 sphinxcontrib-applehelp==2.0.0
     # via sphinx
 sphinxcontrib-devhelp==2.0.0
