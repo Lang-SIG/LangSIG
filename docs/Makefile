@@ -18,3 +18,7 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+# ryehtml target: use rye to run sphinx-build
+ryehtml:
+	@$(MAKE) SPHINXBUILD="rye run sphinx-build" html
