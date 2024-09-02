@@ -1,3 +1,17 @@
+# python generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# venv
+.venv
+
+#.python-version
+.python-version
+
 # sphinx build folder
 _build
 

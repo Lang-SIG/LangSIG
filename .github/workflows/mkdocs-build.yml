@@ -1,0 +1,25 @@
+name: mkdocs-build
+on: [push, pull_request]
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: eifinger/setup-rye@v4
+      id: setup-rye
+      with:
+        enable-cache: true
+        cache-prefix: 3.12
+    - name: Pin python-version 3.12
+      run: rye pin 3.12
+    - name: Install dependencies
+      if: steps.setup-rye.outputs.cache-hit != 'true'
+      run: |
+        rye sync --no-lock
+    # - name: Generate requirements.txt
+    #   run: |
+    #     sed '/-e/d' requirements.lock > docs/requirements.txt
+    - name: Build
+      run: |
+        rye run mkdocs build --config-file mkdocs.yml

@@ -1,0 +1,31 @@
+[project]
+name = "LangSIG"
+version = "0.1.0"
+description = "lang-sig.readthedocs.io/"
+authors = [
+    { name = "Donghee Na", email = "donghee.na@python.org" },
+    { name = "Jongsu Liam Kim", email = "jongsukim8@gmail.com" }
+]
+dependencies = [
+  "mkdocs==1.6.0",
+  "mkdocs-material==9.5.31",
+  "mkdocs-section-index==0.3.9",  
+]
+readme = "README.md"
+requires-python = ">= 3.8"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.rye]
+managed = true
+virtual = false
+dev-dependencies = [
+]
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["docs"]
