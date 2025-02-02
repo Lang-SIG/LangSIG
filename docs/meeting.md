@@ -1,5 +1,10 @@
 ## 모임 기록
 
+### 2025-02-02
+- PyTorch Internal: Eager Mode & Graph Mode by @skyobserver
+- C stdlib isn’t threadsafe and even safe Rust didn’t save us by @b8
+- Tail Call Dispatch Technique by @corona10
+
 ### 2024-08-11
 - JuliaCon 2024 리뷰 by @skyobserver
 - AVX-512로 tolower() 구현하기 by @b8
